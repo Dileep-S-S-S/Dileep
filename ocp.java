@@ -1,6 +1,3 @@
-interface G{
-    public double cal1();
-}
 class circ implements G{
     double a=1;
     public double cal1(){
